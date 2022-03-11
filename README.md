@@ -1,3 +1,1 @@
 # VampireGame
-hi
-fku
